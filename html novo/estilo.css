@@ -1,0 +1,63 @@
+#container{
+	/*background-color: blue;*/
+	width: 60%; /*largura*/
+	height: 110%; /*altura*/
+	margin: 0px auto 0px auto;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	text-align: center;
+}
+#txt_name{
+	border-width: 2px;
+	width: 70%; /*largura*/
+	border-width: 5px;
+	border-color: blue;
+}
+#txt_codigo{
+	border-width: 2px;
+	width: 70%; /*largura*/
+	border-width: 5px;
+	border-color: blue;
+}
+#txt_email{
+	border-width: 2px;
+	width: 70%; /*largura*/
+	border-width: 5px;
+	border-color: blue;
+}
+#txt_centro{
+	border-width: 5px;
+	border-color:blue;
+}
+#txt_centro2{
+	border-width: 5px;
+	border-color: blue;
+}
+#txt_Dia{
+   width: 10%; /*largura*/
+   width: 10%%; /*largura*/ 
+}
+#txt_Mes{
+   width: 10%; /*largura*/
+   width: 10%; /*largura*/ 
+}
+#txt_Ano{
+   width: 10%; /*largura*/
+   width: 10%; /*largura*/
+    
+}
+#txt_Vaga{
+   width: 10%; /*largura*/
+   
+    
+}
+#txt_interesse{
+   width: 80%; /*largura*/
+   
+    
+}
+#txt_Descriçao{
+ border-width: 2px;/*largura da borda*/
+    
+}
